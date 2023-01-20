@@ -15,10 +15,10 @@ let satisfied = false;
 let favoriteThing = 3;
 // You heard a new song that became your favorite.
 // Reassign the variable "favoriteSong"
-let favoriteSong = "Landslide"
+let favoriteSong = "Landslide";
 // You no longer like the type of data stored in "favoriteThing"
 // Reassign "favoriteThing" to a different primitive data type and print its type
-favoriteThing = "My children"
+favoriteThing = "My children";
 console.log(typeof favoriteThing)
 // Happy Birthday!
 // Reassign "age" to a new value
